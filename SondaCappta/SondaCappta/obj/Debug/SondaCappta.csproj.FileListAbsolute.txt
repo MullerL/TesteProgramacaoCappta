@@ -1,0 +1,7 @@
+d:\cappta\Projects\SondaCappta\SondaCappta\bin\Debug\SondaCappta.exe.config
+d:\cappta\Projects\SondaCappta\SondaCappta\bin\Debug\SondaCappta.exe
+d:\cappta\Projects\SondaCappta\SondaCappta\bin\Debug\SondaCappta.pdb
+d:\cappta\Projects\SondaCappta\SondaCappta\obj\Debug\SondaCappta.csprojResolveAssemblyReference.cache
+d:\cappta\Projects\SondaCappta\SondaCappta\obj\Debug\SondaCappta.csproj.CoreCompileInputs.cache
+d:\cappta\Projects\SondaCappta\SondaCappta\obj\Debug\SondaCappta.exe
+d:\cappta\Projects\SondaCappta\SondaCappta\obj\Debug\SondaCappta.pdb
